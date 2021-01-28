@@ -1,0 +1,1 @@
+from amazoned import amazoned
